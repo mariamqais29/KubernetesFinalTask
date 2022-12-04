@@ -12,3 +12,12 @@
 -  Create an ingress that directs the traffic to the correct service:
 http://…/ynet → ynet service.
 http://…/bitcoin → bitcoin service.
+Access from browser:
+ - http://localhost/bitcoin
+ - http://localhost/ynet
+ ![image](https://user-images.githubusercontent.com/66691418/205509516-5bd96751-8d56-463d-bed7-7af968d8b129.png)
+
+
+⚡Run With Minikube:
+Clone the project 
+git clone https://github.com/mariamqais29/KubernetesFinalTask.git
