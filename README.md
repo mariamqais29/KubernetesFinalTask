@@ -5,10 +5,10 @@
  Please use your last two homework assignments:
 - The YNET news: Reads the “Breaking News” from YNet news service.
 - The Bitcoin app: Presents the Current BitCoin Price, And the Average Price for the last 10 minutes and stores the price in a Redis Database..
-1- Dockerize your YNET and Bitcoin applications.
-2- Create Kubernetes manifests (Deployment and service).
-3- Deploy on your minikube.
-4- Deploy/Enable Ingress Controller on your cluster.
-5- Create an ingress that directs the traffic to the correct service:
+-  Dockerize your YNET and Bitcoin applications.
+-  Create Kubernetes manifests (Deployment and service).
+-  Deploy on your minikube.
+-  Deploy/Enable Ingress Controller on your cluster.
+-  Create an ingress that directs the traffic to the correct service:
 http://…/ynet → ynet service.
 http://…/bitcoin → bitcoin service.
