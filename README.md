@@ -23,5 +23,9 @@ Access from browser:
 
 
 ⚡Run With Minikube:
-Clone the project 
-git clone https://github.com/mariamqais29/KubernetesFinalTask.git
+- Clone the project : git clone https://github.com/mariamqais29/KubernetesFinalTask.git
+- project directory: cd KubernetesFinalTask 
+- minikube start 
+- minikube addons enable ingress 
+- kubectl apply -f
+- minikube tunnel 
