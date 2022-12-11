@@ -6,8 +6,7 @@
 - The YNET news: Reads the “Breaking News” from YNet news service.
 - The Bitcoin app: Presents the Current BitCoin Price, And the Average Price for the last 10 minutes and stores the price in a Redis Database..
 -  Dockerize your YNET and Bitcoin applications.
-- bitcoin : ![image](https://user-images.githubusercontent.com/66691418/205509669-59977a23-502f-4da3-90c8-b83f546f2802.png)
-- Ynet : 
+- bitcoin & Ynet  : ![image](https://user-images.githubusercontent.com/66691418/205509669-59977a23-502f-4da3-90c8-b83f546f2802.png)
 -  Create Kubernetes manifests (Deployment and service).
 -  Deploy on your minikube.
 -  Deploy/Enable Ingress Controller on your cluster.
